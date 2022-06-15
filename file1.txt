@@ -1,0 +1,8 @@
+cd----- change directory
+pwd---- present work director
+mkir--- create folder
+touch--- create file
+ls------ to see what a folder contains
+vi------ is a editor
+cat-----to see waht a file contain
+
